@@ -1,4 +1,10 @@
-## 🌐 Socials
+# 👋 Hi, I'm Himanshu Verma  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Full+Stack+Developer;Building+Scalable+Web+Apps;Passionate+About+Tech+%26+Innovation" alt="Typing SVG" />
+</p>
+
+## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu-verma12)  
 [![X](https://img.shields.io/badge/X-%23121011.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/himansh83704346)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshuverma.it12@gmail.com)  
@@ -37,6 +43,13 @@
 
 ---
 
+## 🏆 GitHub Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hverma1206&theme=discord&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📊 GitHub Stats  
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hverma1206&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
@@ -48,7 +61,18 @@
 
 ---
 
-## 🚀 Profile Views  
-![Visitor Count](https://visitcount.itsvg.in/api?id=hverma1206&icon=0&color=0)  
+## 📈 GitHub Activity Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hverma1206&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 ---
+
+## 🚀 Profile Views  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=hverma1206&icon=0&color=0" alt="Profile Views" />
+</p>
+
+---
+
+⭐ **Proudly created with [GPRM](https://gprm.itsvg.in)**  
