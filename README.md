@@ -64,7 +64,7 @@
 
 ---
 
-## 🐍 GitHub Snake Game (Commit Heatmap)  
+## 
 ![snake svg](https://github.com/jheel05/jheel05/blob/main/github-contribution-grid-snake.svg) 
 
 
